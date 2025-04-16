@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Autores  
 - Cássio José (202411250010) - cassio.mandu@academico.ifpb.edu.br
-- Matheus Siqueira (202411250027) - matheus.ssiqueira.silva@gmail.com
+- Matheus Siqueira (202411250027) - siqueira.matheus@academico.ifpb.edu.br
 
 ## 🎯 Tema e Motivação  
   O nosso projeto irá investigar as correlações entre os hábitos de jogo e o desempenho acadêmico dos estudantes. A pesquisa também considerará fatores socioeconômicos e o nível de escolaridade dos pais, buscando entender como esses elementos influenciam no rendimento escolar e nos comportamentos relacionados aos jogos. Através dessa análise, pretendemos identificar padrões que possam contribuir para uma melhor compreensão do impacto dos jogos eletrônicos na vida estudantil.
