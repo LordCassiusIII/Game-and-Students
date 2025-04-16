@@ -1,32 +1,35 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+- Cássio José (202411250010) - cassio.mandu@academico.ifpb.edu.br
+- Matheus Siqueira (202411250027) - matheus.ssiqueira.silva@gmail.com
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+  O nosso projeto irá investigar as correlações entre os hábitos de jogo e o desempenho acadêmico dos estudantes. A pesquisa também considerará fatores socioeconômicos e o nível de escolaridade dos pais, buscando entender como esses elementos influenciam no rendimento escolar e nos comportamentos relacionados aos jogos. Através dessa análise, pretendemos identificar padrões que possam contribuir para uma melhor compreensão do impacto dos jogos eletrônicos na vida estudantil.
+  
+  O motivo da escolha desse projeto é que, nos últimos anos, os jogos têm se tornado cada vez mais presentes na rotina dos jovens. Por isso, consideramos importante estudar esse crescimento e entender suas possíveis consequências, especialmente no contexto educacional. A tendência é que essa presença continue aumentando no futuro, o que torna a análise ainda mais relevante do ponto de vista social e estatístico.
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
+  Game and Students
 
 - **Fonte:**  
-  (Link ou citação da base de dados)
+  https://www.kaggle.com/datasets/willianoliveiragibin/games-and-students/data
 
 - **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+  Este conjunto de dados reúne informações sobre estudantes, com foco em seus hábitos de jogo, desempenho acadêmico e contexto socioeconômico. Inclui variáveis como gênero, escola, frequência e duração dos jogos, nota escolar, renda familiar e escolaridade dos pais. Embora o escopo temporal e geográfico não seja especificado, os dados permitem comparações entre escolas e perfis de alunos. Ele foi escolhido por possibilitar análises sobre a relação entre jogos eletrônicos, desempenho escolar e fatores familiares.
 
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
+ Este conjunto de dados permite análises estatísticas interessantes por reunir variáveis quantitativas e qualitativas que se relacionam diretamente com o comportamento e o desempenho dos estudantes. A presença de informações sobre hábitos de jogo, desempenho escolar, renda familiar e escolaridade dos pais possibilita explorar correlações, testar hipóteses e identificar padrões.
 
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+Estudantes que não jogam têm melhor desempenho acadêmico?
+
+Há diferenças nos hábitos de jogo entre escolas diferentes?
+
+Os estudantes com mais anos de experiência em jogos também jogam mais horas por dia?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
